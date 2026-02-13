@@ -49,10 +49,17 @@ src/main/java/
 ##  Proyectos
 - [ ] 
 
+
+## Recursos que estoy utilizando
+
+[Hyperskill - Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java)
+
+[w3schools](https://www.w3schools.com/java/java_getstarted.asp)
+
+[Java Full Course for free☕](https://www.youtube.com/watch?v=xTtL8E4LzTQ&t=663s)
 ##  Notas
-- Última actualización: 12 Feb 2026
-- Actualmente estoy usando como recursos los siguientes enlaces:
-https://hyperskill.org/courses/8-introduction-to-java
-https://www.w3schools.com/java/java_getstarted.asp
-https://www.youtube.com/watch?v=xTtL8E4LzTQ&t=663s
-- 
+- Última actualización: 12 Feb 2026    
+
+
+
+  
