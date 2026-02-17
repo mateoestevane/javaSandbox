@@ -43,7 +43,8 @@ src/main/java/
 ```
 
 ##  Ejercicios Completados
-- [x] Conversor de Monedas  (Integrador Tema 01)
+- [x] Conversor de Monedas ⭐ (Integrador Tema 01)
+- [x] Sistema de Calificaciones ⭐ (Integrador Tema 02)
 
 
 ##  Proyectos
@@ -58,7 +59,7 @@ src/main/java/
 
 [Java Full Course for free☕](https://www.youtube.com/watch?v=xTtL8E4LzTQ&t=663s)
 ##  Notas
-- Última actualización: 12 Feb 2026    
+- Última actualización: 17 Feb 2026    
 
 
 
